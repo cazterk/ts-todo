@@ -1,4 +1,4 @@
-# New Project
+# Ts Todo Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
